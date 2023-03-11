@@ -1,0 +1,54 @@
+i13 piece of cake
+r8 abrogate
+r10 ambivalent
+r9 amorphous
+r11 camaraderie
+r10 capitulate
+i29 all that glitters is not gold
+r14 circumlocution
+i10 last straw
+r13 conflagration
+r5 covet
+i16 back seat driver
+r6 dearts
+r9 egregious
+r5 elegy
+r12 embezzlement
+r7 espouse
+i27 elvis has left the building
+r10 exacerbate
+r10 fallacious
+r11 forbearance
+r13 grandiloquent
+i8 cry wolf
+r13 idiosyncratic
+r9 impetuous
+i20 add fuel to the fire
+i18 close but no cigar
+r16 incontrovertible
+i20 blessing in disguise
+r12 interlocutor
+r11 irreverence
+i19 breath of fresh air
+i11 break a leg
+r11 legerdemain
+r9 maelstorm
+r12 multifarious
+r9 neophyte
+r12 obstreperous
+r10 pejorative
+r13 philanthropic
+i24 curiosity killed the cat
+r14 preponderance
+r10 pugnacious
+r8 quixotic
+i31 don't judge a book by its cover
+r13 sanctimonious
+r10 scurrilous
+i16 bite your tongue
+r13 surreptitious
+r9 turpitude
+r11 vicissitude
+r10 vociferous
+i16 cut to the chase
+r6 zephyr
